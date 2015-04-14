@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Richard Brunt
+title: OpenLP Instructions
 description: The personal website of Richard Brunt, a Christian Physics Student who takes photos and makes websites in his spare time.
 ---
 #OpenLP Users Guide
