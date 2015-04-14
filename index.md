@@ -9,6 +9,8 @@ description: The personal website of Richard Brunt, a Christian Physics Student 
 
 If you're just interested in how to run a service, read through this overview section, then skip straight to [Running a Service](#running-a-service).
 
+You can download a PDF of this web page [here](openlp_instructions.pdf).
+
 ![Overview of the OpenLP interface](Overview_annotated.png)
 The 3 main areas relevant to running a service with OpenLP are shown in the picture above.
 
