@@ -54,7 +54,7 @@ Finally, click the "Theme, Copyright Info & Comments" tab, and enter the copyrig
 Now press "Save", and you're done!
 
 
-<h3 id="presetations">Presentations</h3>
+<h3 id="presentations">Presentations</h3>
 
 If you're taking a powerpoint off a USB stick, don't forget to copy it to the computer first so that you don't need to have it plugged in for the whole service.
 
