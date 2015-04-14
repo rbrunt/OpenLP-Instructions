@@ -21,7 +21,7 @@ The 3 main areas relevant to running a service with OpenLP are shown in the pict
 
 ##2. Creating a Service
 
-###Songs
+<h3 id="songs">Songs</h3>
 
 Adding songs to a service is as simple as choosing a song from the list (you can search by title, lyrics or authors in the search box), and pressing the grey + button at the top of the songs tab. You can also just drag and drop the song from the list to the Service Manager (3) on the right.
 
@@ -54,7 +54,7 @@ Finally, click the "Theme, Copyright Info & Comments" tab, and enter the copyrig
 Now press "Save", and you're done!
 
 
-###Presentations
+<h3 id="presetations">Presentations</h3>
 
 If you're taking a powerpoint off a USB stick, don't forget to copy it to the computer first so that you don't need to have it plugged in for the whole service.
 
@@ -64,16 +64,16 @@ Adding a presentation takes a few seconds as thumbnail images of the slides are 
 
 To add a presentation to a service, just drag it over to the box on the right (3), or press the (+) button.
 
-###Media
+<h3 id="media">Media</h3>
 
 Adding media (videos) is the same as a presentation - press the blue folder button, or drag the video file onto the list, then drag it from the list onto the service manger list (3).
 
-###Custom Slides
+<h3 id="custom-slides">Custom Slides</h3>
 
 Custom slides are for things like liturgy. Adding a new one is very similar to adding a new song, and adding Custom Slides to the service is the same as for any other service item.
 
 
-##3. Running a Service
+<h2 id="running-a-service">3. Running a Service</h2>
 
 ![Service Control Screenshot](servicecontrol.png)
 
